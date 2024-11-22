@@ -8,7 +8,7 @@ const ProductCard = () => {
     
       <div className="w-full flex flex-col items-center">
         <Image 
-          src="/perfume.jfif" 
+          src="/perfumes.jpg" 
           width={350} 
           height={200} 
           alt="Perfume bottle" 
@@ -40,7 +40,7 @@ const ProductCard = () => {
       
       <div className="w-full flex flex-col items-center">
         <Image 
-          src="/cap.jfif" 
+          src="/caps.jpg" 
           width={350} 
           height={200} 
           alt="Fashion cap" 
